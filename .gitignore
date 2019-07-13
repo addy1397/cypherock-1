@@ -1,0 +1,8 @@
+#.vscode
+*.vscode
+
+#.pio
+*.pio
+
+#.DS_Store
+*.DS_Store
